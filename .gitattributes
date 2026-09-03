@@ -1,0 +1,9 @@
+*.json linguist-detectable=false
+*.md linguist-documentation
+*.map linguist-generated
+*.html linguist-vendored
+src/*.ts linguist-detectable
+*.woff2 binary
+src/**/*.tsx linguist-detectable
+
+# eof 008dd8a2
